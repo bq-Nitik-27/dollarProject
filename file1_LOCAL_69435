@@ -6,8 +6,4 @@ This is change from branch 1 of main
 this is second change in file from branch1
 this is third change in file from branch1
 hey developers this change from working repo
-<<<<<<< HEAD
 indore is great place
-=======
-hello nitik i am shubham changes happened from above in branch1
->>>>>>> refs/remotes/origin/branch1
